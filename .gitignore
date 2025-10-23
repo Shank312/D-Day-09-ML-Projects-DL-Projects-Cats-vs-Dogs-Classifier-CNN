@@ -1,0 +1,24 @@
+
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtualenv
+env/
+venv/
+.env
+
+# Outputs & models
+outputs/
+*.keras
+*.h5
+*.ckpt
+cats_vs_dogs_savedmodel/
+
+# Logs & OS files
+logs/
+*.log
+.DS_Store
+Thumbs.db
